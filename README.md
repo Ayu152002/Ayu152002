@@ -13,10 +13,10 @@ Welcome to my GitHub profile! I'm an aspiring Data Analyst passionate about turn
 - **Database Management:** MySQL, MariaDB
 
 ## 🔥 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark&count_private=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ayu152002&show_icons=true&theme=dark&count_private=true)
 
 ## 📊 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayu152002&layout=compact&theme=dark)
 
 ## 🔗 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/ayusha-majumdar-15aa8b253/)
