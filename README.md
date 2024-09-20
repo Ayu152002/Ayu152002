@@ -19,4 +19,4 @@ Welcome to my GitHub profile! I'm an aspiring Data Analyst passionate about turn
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark)
 
 ## 🔗 Connect with Me
-- [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/ayusha-majumdar-15aa8b253/)
+- [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/ayusha-majumdar-15aa8b253/))
